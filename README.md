@@ -28,7 +28,7 @@
 
 ![enable](https://cdn.jsdelivr.net/gh/LingSiKi/images/img/enable.png)
 
-**2、我们学校要求打卡  的时间不一样，这个自动运行的时间该怎么修改？**
+**2、我们学 校要求打卡  的时间不一样，这个自动运行的时间该怎么修改？**
 
 进入 `.github/workflows/run.yml `修改时间
 
