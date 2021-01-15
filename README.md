@@ -28,7 +28,7 @@
 
 ![enable](https://cdn.jsdelivr.net/gh/LingSiKi/images/img/enable.png)
 
-**2、我们学校要求打卡  的时 间不一样，这个自动运行的时间该怎么修改？**
+**2、我们学  校要求打卡  的时 间不一样，这个自动运行的时间该怎么修改？**
 
 进入 `.github/workflows/run.yml `修改时间
 
@@ -48,7 +48,7 @@ on:
     - cron: 0 22,4,9 * * *
 ```
 
-**3、当发现报错显示密码错误，还有 * 次后冻结，请立马修改 secrets 的密码再尝试运行**
+**3、当发现报错显示密码错误，还有   * 次后冻结，请立马修改 secrets 的密码再尝试运行**
 
 **[4、健康打卡问题汇总请前往 wiki](https://github.com/ReaJason/17wanxiaoCheckin-Actions/wiki#%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB)**
 
@@ -131,7 +131,7 @@ on:
 
    
 
-   ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/end_check.png)
+   ![](https://cdn.jsdelivr.net/gh/ReaJa son/17wanxiaoCheckin-Actions/Pictures/end_check.png)
 
 
 
