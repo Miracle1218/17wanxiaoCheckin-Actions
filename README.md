@@ -8,7 +8,7 @@
 
 **💫2020.11.23：支持多人打卡，重写了一下代码**
 
-**⚡2020.11.16：本项目已更新，使用本项目，你不需要抓包就可以使用（理论上大概......）**
+**⚡2020.11.16：本项目已更新，使用本项目 ，你不需要抓包就可以使用（理论上大概......）**
 
 
 
@@ -16,7 +16,7 @@
 
 感谢 [@zhongbr](https://github.com/zhongbr) 的完美校  园逆向登录分析代码的分享：[完美校园模拟登录](https://github.com/zhongbr/wanmei_campus)
 
-之前的抓包部署教程请前往：[完美校园 抓包打卡](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/README_LAST.md)
+之前的抓包部署教程请前往：[完美校  园 抓包打卡](https://github.com/ReaJason/17wanxiaoCheckin-Actions/blob/master/README_LAST.md)
 
 
 
